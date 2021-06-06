@@ -29,6 +29,12 @@
       "text": "play hide and seek",
       "day": "march 18th at 06: 00am",
       "reminder": true
+    },
+    {
+      "text": "birthday",
+      "day": "1991-03-18T18:00",
+      "reminder": true,
+      "id": 7
     }
   ]
 }

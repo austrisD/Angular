@@ -32,3 +32,6 @@ export class TasksService {
     return this.http.post<Task>(this.apiUrl, task, httpOptions);
   }
 }
+
+
+// prevent data send if field is empty!!!!
